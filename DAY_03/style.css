@@ -1,0 +1,18 @@
+.card{
+    max-width: 250px;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+
+}
+.card img{
+    width: 100px;
+}
+.card h2 , .card p{
+    margin: 6px 0;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
