@@ -1,0 +1,20 @@
+.cantainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.card{
+    padding: 10px;
+    width: 200px;
+    border: 4px solid red;
+    border-radius: 5px;
+    overflow: hidden;
+
+}
+.card img{
+    width: 100%;
+}
+
+
