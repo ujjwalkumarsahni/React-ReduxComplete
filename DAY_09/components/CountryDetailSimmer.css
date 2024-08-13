@@ -1,0 +1,20 @@
+.image-container{
+    background-color: #ccc;
+    width: 470px;
+    height: 310px;
+}
+.simmer-back-button{
+    width: 100px;
+    height: 30px;
+    margin-left: 12px;
+}
+.header{
+    background-color: #ccc;
+    height: 35px;
+    width: 100%;
+}
+.details {
+     width: 500px;
+     height: 280px;
+     background-color: #ccc;
+}
